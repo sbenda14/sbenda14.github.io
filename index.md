@@ -5,13 +5,9 @@
 ### In Progress
 - [x] Make a task list
 
-- [ ] Learn JUnit Testing
-
 - [x] **Write in bold**
 
 - [x] *Use italics*
-
-- [x] And emojis! :sunny: :sunflower: :dog:
 
 
 ### 'Completed' Projects
