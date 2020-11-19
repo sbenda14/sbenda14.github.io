@@ -1,18 +1,15 @@
-![Image of cartoon](https://orboancs.files.wordpress.com/2010/11/software_engineering_explained1.gif)
+# Recent Projects
+Worked as part of team to create a website displaying Covid-19 stats for Idaho counties.
 
-[Source](https://orboancs.files.wordpress.com/2010/11/software_engineering_explained1.gif)
+[Website hosted on heroku](https://cov-idaho.herokuapp.com/)
+[Link to Github page]()
+[Link to Github source code](https://github.com/Kensleemoy/SeniorDesign)
 
-### In Progress
-- [x] Make a task list
+Framework: VueJS
+Languages: Vue, JS, CSS, HTML
 
-- [x] **Write in bold**
+Features:
 
-- [x] *Use italics*
-
-
-### 'Completed' Projects
-  - hello-world
+## In Progress
 
 
-### Sources
-[Github Guide](https://guides.github.com/features/mastering-markdown/)
