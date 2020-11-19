@@ -1,6 +1,6 @@
-# Recent Projects
+# Completed Projects
 ## Cov-Idaho website
-Senior design project.
+CS481- Senior design project.
 
 Worked as part of team to create a website displaying Covid-19 stats for Idaho counties.
 
@@ -20,7 +20,7 @@ Contributions:
 
 ## Recipe repository
 
-CS401-Web development final project
+CS401- Web development final project
 
 
 
