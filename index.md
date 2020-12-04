@@ -4,7 +4,7 @@ CS481- Senior design project.
 
 Worked as part of team to create a website displaying Covid-19 stats for Idaho counties.
 
-{% include youtubePlayer.html id="AfqfOg3ks00" %}
+{% include embedYoutube.html id="AfqfOg3ks00" %}
 
 [Website hosted on Heroku](https://cov-idaho.herokuapp.com/)
 
