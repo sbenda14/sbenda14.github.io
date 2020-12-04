@@ -6,13 +6,14 @@ Worked as part of team to create a website displaying Covid-19 stats for Idaho c
 
 {% include youtubePlayer.html id="AfqfOg3ks00" %}
 
-[Website hosted on Heroku](https://cov-idaho.herokuapp.com/)
 
-[Project Github page](https://kensleemoy.github.io/SeniorDesign/)
+* [Website hosted on Heroku](https://cov-idaho.herokuapp.com/)
 
-[Github source code](https://github.com/Kensleemoy/SeniorDesign)
+* [Project Github page](https://kensleemoy.github.io/SeniorDesign/)
 
+* [Github source code](https://github.com/Kensleemoy/SeniorDesign)
 
+<hr>
 
 ## Recipe repository
 
