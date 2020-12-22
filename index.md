@@ -19,9 +19,9 @@ Worked as part of team to create a website displaying Covid-19 stats for Idaho c
 
 CS401- Web development final project
 
+{% include youtubePlayer.html id="XghoDbnLLgk" %}
 
+* [Website hosted on Heroku](https://theorganizedchef.herokuapp.com/)
 
-
-# In Progress
 
 
