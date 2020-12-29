@@ -18,9 +18,14 @@ Worked as part of team to create a website displaying Covid-19 stats for Idaho c
 
 CS401- Web development final project (Spring 2020)
 
+Created a recipe repository.
+
 {% include youtubePlayer.html id="XghoDbnLLgk" %}
 
 * [Website hosted on Heroku](https://theorganizedchef.herokuapp.com/)
 
+* [Project Github page](https://sbenda14.github.io/organizedChef/)
+
+* [Github source code](https://github.com/sbenda14/organizedChef)
 
 
