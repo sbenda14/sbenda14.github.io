@@ -4,7 +4,7 @@ Side project (Jan 2021)
 Performs nearest neighbor calculation given a set of GPS coordinates. Outputs
 sorted coordinates and reports total distance in km. 
 
-{% include youtubePlayer.html id="AX1GMWhfDtzk" %}
+{% include youtubePlayer.html id="X1GMWhfDtzk" %}
 
 * [Github source code](https://github.com/sbenda14/spaceTravel_Java)
 
